@@ -11,10 +11,10 @@
 ## 流程示意圖
 
 ### Legalization
-![Legalization](./images/legalization.jog)
+![Legalization](./images/legalization.jpg)
 
 ### Detailed Placement
-![Detailed Placement](./images/detailed_placement.jog)
+![Detailed Placement](./images/detailed_placement.jpg)
   
 > - Legalization：把非法 / 浮點位置的 instance **move** 到最近的合法 resource  
 > - Detailed placement：在小範圍內做 **move / swap** 來改善 HPWL
